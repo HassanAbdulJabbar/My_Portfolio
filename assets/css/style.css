@@ -316,6 +316,11 @@ section {
   font-size: 26px;
   color: #173b6c;
 }
+.about .content h4 {
+  font-weight: 600;
+  font-size: 20px;
+  color: #173b6c;
+}
 
 .about .content ul {
   list-style: none;
