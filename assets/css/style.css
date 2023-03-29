@@ -128,6 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /* Desktop Navigation */
+
 .nav-menu {
   padding-top: 30px;
 }
@@ -329,6 +330,7 @@ section {
 
 .about .content ul li {
   padding-bottom: 10px;
+  color: #173b6c;
 }
 
 .about .content ul i {
@@ -485,6 +487,20 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #1f5297;
+}
+.resume button {
+  background-color: #1f5297;
+  border: 0;
+  padding: 10px 24px;
+  padding-left: 20px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 380px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 
